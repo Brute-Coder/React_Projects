@@ -1,0 +1,13 @@
+.active {
+  color: orange;
+  padding: 3px;
+}
+.inactive {
+  color: gray;
+  padding: 3px;
+}
+
+.rating {
+  border: 1px solid wheat;
+  display: inline;
+}
